@@ -1,8 +1,16 @@
 # Flask Website
  Website created using flask which includes three main features : 
-➡ Detecting Age and gender using webcam
-➡ Person Counting
+ 
+ 
+➡ Detecting Age and gender using webcam.
+
+
+➡ Person Counting.
+
+
 ➡ Detect Names using webcam by upload the image .
+
+
 In name detection you can upload an image of your choice from your desktop and it will get saved in the images folder and then it will detect the face on webcam realtime.
 ![Screenshot 2023-03-12 030219](https://user-images.githubusercontent.com/120780784/224512422-87f7fbcd-c598-4007-9362-ae7fb48ea9a7.png)
 
