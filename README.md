@@ -20,3 +20,5 @@ In name detection you can upload an image of your choice from your desktop and i
 
 ![Screenshot 2023-03-12 032113](https://user-images.githubusercontent.com/120780784/224512974-372605ad-5683-45e1-8ce7-4571fccfed83.png)
 ![p2](https://user-images.githubusercontent.com/120780784/224513014-257db257-1eae-4ce5-8196-c8fe8dab5f28.png)
+
+Add js files in this repo !
