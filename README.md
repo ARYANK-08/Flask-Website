@@ -1,5 +1,3 @@
-# Flask-Website
-Website using Flask
 # Flask Website
  Website created using flask which includes three main features : 
  
