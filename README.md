@@ -1,6 +1,7 @@
 # Flask Website
- Website created using flask which includes three main features : 
+ Website created using flask which includes three main features :
  
+ Checkout My Article : https://www.linkedin.com/pulse/revolutionizing-billboard-analytics-opencv-aryan-kyatham/
  
 ➡ Detecting Age and gender using webcam.
 
